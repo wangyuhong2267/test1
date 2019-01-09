@@ -23,6 +23,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     int wyh;
+    int wx;
     private Context context = this;
     private RelativeLayout rl_root;
     private TextView tv;
